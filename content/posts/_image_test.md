@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 ![image info](./staged_images/0002_making_static_site_hugo/choco_installed.png "Title")
 
 ## this will work if image is another folder off root of markdown file
